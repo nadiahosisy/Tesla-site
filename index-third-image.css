@@ -6,7 +6,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: start;
-    background-size: 100% 120%;
+    background-size: cover;
   }
   
   .map {

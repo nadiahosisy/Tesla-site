@@ -4,7 +4,7 @@
   background: url(imges/model-3-hero-a-desktop.png) no-repeat center
   center; 
   background-position: 50% 60%;
-  background-size: 70% 100%;
+  background-size: contain;
   margin-top: 8px;
   margin-left: 0px;
   display: flex;
