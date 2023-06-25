@@ -28,7 +28,6 @@
   left: 34vw;
 }
 
-
 .line::before {
   content: "";
   position: absolute;
